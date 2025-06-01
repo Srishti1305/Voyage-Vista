@@ -3,6 +3,7 @@
 ## Description
 **Voyage Vista** is a curated guide showcasing some of the most famous cities in India and the must-visit places within them. Whether you're planning a trip or simply exploring destinations virtually, this project helps you discover rich cultural landmarks, historical sites, and breathtaking attractions. Additionally, Wikipedia integration allows users to dive deeper into each location's history and significance.
 
+Built using HTML and CSS, Voyage Vista offers a visually engaging and structured exploration experience.
 ## Features
 - 📍 **Explore Indian Cities** – Discover famous cities and their top attractions.
 - 🔗 **Wikipedia Integration** – Get in-depth details on locations with direct Wikipedia links.
